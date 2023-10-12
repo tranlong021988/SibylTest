@@ -43,7 +43,7 @@ Material:
     - _Cutoff: 0.474
     - _Cutout: 2.72
     - _DarkColorAlphaAdditive: 0
-    - _DissolveOffset: 0.5
+    - _DissolveOffset: -2
     - _NoiseAngle: 10
     - _Noise_Angle: 2
     - _Noise_Density: 10

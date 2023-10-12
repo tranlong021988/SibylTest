@@ -42,7 +42,7 @@ Material:
     m_Floats:
     - _Cutoff: 0.511
     - _Cutout: -0.62
-    - _DissolveOffset: 0.5
+    - _DissolveOffset: -2
     - _NoiseAngle: 10
     - _Noise_Angle: 2
     - _Noise_Density: 10
